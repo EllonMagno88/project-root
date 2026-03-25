@@ -37,8 +37,8 @@ Esquema no Supabase:
 ## 📂 Como Configurar o Projeto
 1. Clonar e Instalar
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/EllonMagno88/project-root.git
+cd project-root
 npm install
 ```
 2. Configuração do Banco de Dados (.env)
